@@ -1,7 +1,8 @@
 # Created by Leon Hunter at 3:56 PM 10/23/2020
 class Predicator(object):
     def is_greater_than_5(self, some_value):
-        return some_value # TODO - Implement solution
+        a=some_value
+        return a # TODO - Implement solution
 
     def is_greater_than_8(self, some_value):
         return some_value # TODO - Implement solution
