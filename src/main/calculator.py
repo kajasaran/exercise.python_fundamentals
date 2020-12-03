@@ -11,3 +11,4 @@ class Calculator(object):
 
     def divide(self, a, b):
         return round(a/b,3) # TODO - Implement solution
+#rounded to 3 decimal places
